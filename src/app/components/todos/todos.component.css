@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+}
+.todo {
+  background-color: gray;
+  margin-bottom: 1rem;
+  display: flex;
+}
